@@ -6,7 +6,7 @@ This application is a Go web server that serves as a wrapper around the Wikipedi
 
 ## Requirements
 
-- Go 1.15 or later
+- Go 1.21 or later
 - Docker (optional for containerization)
 
 ## Building and Running
